@@ -147,7 +147,6 @@ y = df[label_col]
 # Step 6: Encode labels and scale features
 label_encoder = LabelEncoder()
 y_encoded = label_encoder.fit_transform(y)
-
 print(f"Classes: {label_encoder.classes_}")
 
 scaler = StandardScaler()
