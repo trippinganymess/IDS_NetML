@@ -3,4 +3,6 @@ pandas
 scikit-learn
 imbalanced-learn
 joblib
-tensorflow-metal
+torch
+matplotlib 
+seaborn
