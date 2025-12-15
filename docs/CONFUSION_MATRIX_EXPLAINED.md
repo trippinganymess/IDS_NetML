@@ -1,10 +1,5 @@
 # Understanding Your Confusion Matrix
 
-## Is the Confusion Matrix Wrong?
-
-**NO - Your confusion matrix is correct.** It's accurately showing that your model has real problems classifying certain malware families.
-
----
 
 ## How to Read Your Confusion Matrix
 
@@ -171,7 +166,7 @@ Cobalt column:     [3267, 2223, 901, ...]   ← Gets misclassifications from man
 - Off-diagonal should be sparse
 - Maximum row confusion should be <5,000 per pair
 
-### For Your Model (78.68% accuracy):
+### For this Model (78.68% accuracy):
 - Some diagonal values are low (<1,000)
 - Multiple off-diagonal values are >1,000
 - Maximum confusion is 3,267 (Cobalt→Adload)
