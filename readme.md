@@ -237,11 +237,10 @@ print(f"Macro F1: {metrics['macro_f1']:.4f}")
 If you use this code in your research, please cite:
 
 ```bibtex
-@inproceedings{yourname2024netml,
+@inproceedings{ G22025netml,
   title={Hybrid Deep Learning for Network Traffic Classification},
-  author={Your Name},
-  booktitle={Conference Name},
-  year={2024}
+  author={Animesh, brijesh},
+  year={2025}
 }
 ```
 
