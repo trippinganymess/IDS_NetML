@@ -1,0 +1,201 @@
+{
+  "per_class": {
+    "Adload": {
+      "original_f1": 0.6976671526765257,
+      "optimized_f1": 0.6744904261890056,
+      "improvement": -0.023176726487520116,
+      "original_precision": 0.6590909090909091,
+      "optimized_precision": 0.6849127608621279,
+      "original_recall": 0.7410398230088495,
+      "optimized_recall": 0.6643805309734513
+    },
+    "Artemis": {
+      "original_f1": 0.9574582660204631,
+      "optimized_f1": 0.9607348703170029,
+      "improvement": 0.0032766042965397535,
+      "original_precision": 0.953521630318198,
+      "optimized_precision": 0.9600431965442765,
+      "original_recall": 0.9614275414563807,
+      "optimized_recall": 0.9614275414563807
+    },
+    "BitCoinMiner": {
+      "original_f1": 0.9781689025631745,
+      "optimized_f1": 0.978437883819315,
+      "improvement": 0.00026898125614049917,
+      "original_precision": 0.9646602115032796,
+      "optimized_precision": 0.9700099215297195,
+      "original_recall": 0.9920613069016153,
+      "optimized_recall": 0.9870135829662261
+    },
+    "CCleaner": {
+      "original_f1": 0.0,
+      "optimized_f1": 0.0,
+      "improvement": 0.0,
+      "original_precision": 0.0,
+      "optimized_precision": 0.0,
+      "original_recall": 0.0,
+      "optimized_recall": 0.0
+    },
+    "Cobalt": {
+      "original_f1": 0.31380563124432337,
+      "optimized_f1": 0.3754883816574131,
+      "improvement": 0.06168275041308974,
+      "original_precision": 0.28017299635085824,
+      "optimized_precision": 0.31210118505013673,
+      "original_recall": 0.35661448477550317,
+      "optimized_recall": 0.47118527438499913
+    },
+    "Downware": {
+      "original_f1": 0.04392764857881137,
+      "optimized_f1": 0.0,
+      "improvement": -0.04392764857881137,
+      "original_precision": 0.13385826771653545,
+      "optimized_precision": 0.0,
+      "original_recall": 0.02627511591962906,
+      "optimized_recall": 0.0
+    },
+    "Dridex": {
+      "original_f1": 0.9840656687590535,
+      "optimized_f1": 0.9840656687590535,
+      "improvement": 0.0,
+      "original_precision": 0.9688943221950557,
+      "optimized_precision": 0.9688943221950557,
+      "original_recall": 0.9997196916608269,
+      "optimized_recall": 0.9997196916608269
+    },
+    "Emotet": {
+      "original_f1": 0.7311063728974176,
+      "optimized_f1": 0.7450686641697878,
+      "improvement": 0.013962291272370142,
+      "original_precision": 0.8787015945330297,
+      "optimized_precision": 0.9688311688311688,
+      "original_recall": 0.6259634888438134,
+      "optimized_recall": 0.6052738336713996
+    },
+    "HTBot": {
+      "original_f1": 0.24212421242124213,
+      "optimized_f1": 0.2328847279110591,
+      "improvement": -0.009239484510183027,
+      "original_precision": 0.2116443745082612,
+      "optimized_precision": 0.262532981530343,
+      "original_recall": 0.28286014721345953,
+      "optimized_recall": 0.2092534174553102
+    },
+    "MagicHound": {
+      "original_f1": 0.0,
+      "optimized_f1": 0.17882689556509299,
+      "improvement": 0.17882689556509299,
+      "original_precision": 0.0,
+      "optimized_precision": 0.16087516087516088,
+      "original_recall": 0.0,
+      "optimized_recall": 0.20128824476650564
+    },
+    "MinerTrojan": {
+      "original_f1": 0.9303749043611323,
+      "optimized_f1": 0.9303749043611323,
+      "improvement": 0.0,
+      "original_precision": 0.9991783073130649,
+      "optimized_precision": 0.9991783073130649,
+      "original_recall": 0.870436649964209,
+      "optimized_recall": 0.870436649964209
+    },
+    "PUA": {
+      "original_f1": 0.22245108135942326,
+      "optimized_f1": 0.2147165259348613,
+      "improvement": -0.007734555424561973,
+      "original_precision": 0.4444444444444444,
+      "optimized_precision": 0.8811881188118812,
+      "original_recall": 0.14835164835164835,
+      "optimized_recall": 0.12225274725274725
+    },
+    "Ramnit": {
+      "original_f1": 0.9619208800507721,
+      "optimized_f1": 0.9735472679965308,
+      "improvement": 0.011626387945758654,
+      "original_precision": 0.9570616712271101,
+      "optimized_precision": 0.9931431099314311,
+      "original_recall": 0.9668296831809483,
+      "optimized_recall": 0.9547097597278333
+    },
+    "Sality": {
+      "original_f1": 0.885665334094803,
+      "optimized_f1": 0.8848011037020005,
+      "improvement": -0.0008642303928024786,
+      "original_precision": 0.9867650801730721,
+      "optimized_precision": 0.993801652892562,
+      "original_recall": 0.8033568172399502,
+      "optimized_recall": 0.7973476999585578
+    },
+    "Tinba": {
+      "original_f1": 0.5309256953092569,
+      "optimized_f1": 0.5280875236692615,
+      "improvement": -0.002838171639995446,
+      "original_precision": 0.5093588211867782,
+      "optimized_precision": 0.5130825838103026,
+      "original_recall": 0.5543996532293021,
+      "optimized_recall": 0.5439965322930213
+    },
+    "TrickBot": {
+      "original_f1": 0.31391465677179964,
+      "optimized_f1": 0.3572923935799023,
+      "improvement": 0.04337773680810264,
+      "original_precision": 0.3049747656813266,
+      "optimized_precision": 0.3286264441591784,
+      "original_recall": 0.32339449541284404,
+      "optimized_recall": 0.39143730886850153
+    },
+    "Trickster": {
+      "original_f1": 0.0,
+      "optimized_f1": 0.0,
+      "improvement": 0.0,
+      "original_precision": 0.0,
+      "optimized_precision": 0.0,
+      "original_recall": 0.0,
+      "optimized_recall": 0.0
+    },
+    "TrojanDownloader": {
+      "original_f1": 0.6790343074968234,
+      "optimized_f1": 0.6790343074968234,
+      "improvement": 0.0,
+      "original_precision": 0.5158301158301158,
+      "optimized_precision": 0.5158301158301158,
+      "original_recall": 0.9933085501858736,
+      "optimized_recall": 0.9933085501858736
+    },
+    "Ursnif": {
+      "original_f1": 0.22641509433962265,
+      "optimized_f1": 0.22310756972111553,
+      "improvement": -0.0033075246185071128,
+      "original_precision": 0.7142857142857143,
+      "optimized_precision": 1.0,
+      "original_recall": 0.13452914798206278,
+      "optimized_recall": 0.12556053811659193
+    },
+    "WebCompanion": {
+      "original_f1": 0.0,
+      "optimized_f1": 0.13446676970633695,
+      "improvement": 0.13446676970633695,
+      "original_precision": 0.0,
+      "optimized_precision": 0.12608695652173912,
+      "original_recall": 0.0,
+      "optimized_recall": 0.14403973509933773
+    },
+    "benign": {
+      "original_f1": 0.9247311827956989,
+      "optimized_f1": 0.9247311827956989,
+      "improvement": 0.0,
+      "original_precision": 1.0,
+      "optimized_precision": 1.0,
+      "original_recall": 0.86,
+      "optimized_recall": 0.86
+    }
+  },
+  "summary": {
+    "macro_f1_before": 0.5058931900828735,
+    "macro_f1_after": 0.5228646222548282,
+    "weighted_f1_before": 0.7727251909769537,
+    "weighted_f1_after": 0.7791223897092044,
+    "accuracy_before": 0.7839857142857143,
+    "accuracy_after": 0.7824857142857143
+  }
+}

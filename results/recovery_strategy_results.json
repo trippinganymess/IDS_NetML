@@ -1,0 +1,73 @@
+{
+  "zero_recall_analysis": {
+    "CCleaner": {
+      "self_confidence": 0.47212955355644226,
+      "total_samples": 1233,
+      "top_misclassifications": {
+        "TrojanDownloader": 1227,
+        "BitCoinMiner": 4,
+        "Tinba": 1,
+        "Ramnit": 1
+      }
+    },
+    "MagicHound": {
+      "self_confidence": 0.08478724211454391,
+      "total_samples": 603,
+      "top_misclassifications": {
+        "Cobalt": 246,
+        "HTBot": 187,
+        "Tinba": 57,
+        "TrickBot": 56,
+        "Emotet": 28
+      }
+    },
+    "WebCompanion": {
+      "self_confidence": 0.06959593296051025,
+      "total_samples": 617,
+      "top_misclassifications": {
+        "Cobalt": 236,
+        "HTBot": 143,
+        "Tinba": 87,
+        "TrickBot": 67,
+        "Ramnit": 25
+      }
+    },
+    "Trickster": {
+      "self_confidence": 0.00213793246075511,
+      "total_samples": 6,
+      "top_misclassifications": {
+        "Tinba": 4,
+        "Downware": 2
+      }
+    }
+  },
+  "improvements": {
+    "Adload": 0.0,
+    "Artemis": 0.0,
+    "BitCoinMiner": 0.0006312377047589246,
+    "CCleaner": 0.0,
+    "Cobalt": 0.0,
+    "Downware": -0.03494623655913978,
+    "Dridex": 0.0,
+    "Emotet": 0.008210672563513377,
+    "HTBot": -0.2338015405527866,
+    "MagicHound": 0.11073825503355705,
+    "MinerTrojan": 0.0,
+    "PUA": -0.03228524856198342,
+    "Ramnit": 0.011684489040144852,
+    "Sality": 0.0003982965599861332,
+    "Tinba": -0.019484773382549947,
+    "TrickBot": 0.0008254189088658381,
+    "Trickster": 0.011594202898550725,
+    "TrojanDownloader": 0.00017853196323847076,
+    "Ursnif": -0.0002766366515899732,
+    "WebCompanion": 0.16164207825529187,
+    "benign": 0.0
+  },
+  "summary": {
+    "macro_f1_before": 0.507511331545953,
+    "macro_f1_after": 0.5068022242707081,
+    "weighted_f1_before": 0.7740736942042091,
+    "weighted_f1_after": 0.773312753540043
+  }
+}
