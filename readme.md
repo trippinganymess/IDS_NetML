@@ -251,5 +251,5 @@ MIT License
 
 ## Acknowledgments
 
-- NetML-2020 dataset: [Link to dataset]
+- NetML-2020 dataset
 - PyTorch, XGBoost, LightGBM, scikit-learn
